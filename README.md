@@ -1,7 +1,7 @@
 # Project Information
 
 The project "formulas" was my solution for a self imposed problem,
-that of creating a program that is able to solve **any propositional logic formula**,
+that of creating a program that is able to solve _**any propositional logic formula**_,
 given as a string input, and displaying solutions for various parameters such as:
 
 - number of subformulas;
@@ -11,4 +11,4 @@ given as a string input, and displaying solutions for various parameters such as
 
 as well as displaying the Truth Table.
 
-This works for **any** given formula, while respecting the order of operations, as well as parentheses order.
+This works for _**any**_ given formula, while respecting the order of operations, as well as parentheses order.
